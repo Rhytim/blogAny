@@ -75,35 +75,52 @@
                 </form>
             </div>
         </aside>
-    </div>
 
-    <!-- CAJA PRINCIPAL -->
-    <div id="principal">
-        <h1>Ultimas entradas</h1>
-        <article class="entrada">
-            <h2>Titulo de mi entrada</h2>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, eum. Facilis explicabo molestiae
-                adipisci, iusto voluptate eaque animi praesentium quo repellat. Eum pariatur saepe omnis, nulla ipsam
-                vel at est?
-            </p>
-        </article>
-        <article class="entrada">
-            <h2>Titulo de mi entrada</h2>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, eum. Facilis explicabo molestiae
-                adipisci, iusto voluptate eaque animi praesentium quo repellat. Eum pariatur saepe omnis, nulla ipsam
-                vel at est?
-            </p>
-        </article>
-        <article class="entrada">
-            <h2>Titulo de mi entrada</h2>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, eum. Facilis explicabo molestiae
-                adipisci, iusto voluptate eaque animi praesentium quo repellat. Eum pariatur saepe omnis, nulla ipsam
-                vel at est?
-            </p>
-        </article>
+
+        <!-- CAJA PRINCIPAL -->
+        <div id="principal">
+            <h1>Ultimas entradas</h1>
+            <article class="entrada">
+                <h2>Titulo de mi entrada</h2>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, eum. Facilis explicabo molestiae
+                    adipisci, iusto voluptate eaque animi praesentium quo repellat. Eum pariatur saepe omnis, nulla
+                    ipsam
+                    vel at est?
+                </p>
+            </article>
+            <article class="entrada">
+                <h2>Titulo de mi entrada</h2>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, eum. Facilis explicabo molestiae
+                    adipisci, iusto voluptate eaque animi praesentium quo repellat. Eum pariatur saepe omnis, nulla
+                    ipsam
+                    vel at est?
+                </p>
+            </article>
+            <article class="entrada">
+                <h2>Titulo de mi entrada</h2>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, eum. Facilis explicabo molestiae
+                    adipisci, iusto voluptate eaque animi praesentium quo repellat. Eum pariatur saepe omnis, nulla
+                    ipsam
+                    vel at est?
+                </p>
+            </article>
+            <article class="entrada">
+                <h2>Titulo de mi entrada</h2>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, eum. Facilis explicabo molestiae
+                    adipisci, iusto voluptate eaque animi praesentium quo repellat. Eum pariatur saepe omnis, nulla
+                    ipsam
+                    vel at est?
+                </p>
+            </article>
+            <div id="ver-todas">
+                <a href="#">Ver Todas</a>
+            </div>
+        </div>
+        <div class="clearfix"></div>
     </div>
 
     <!-- PIE DE PAGINA -->
